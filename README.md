@@ -1,1 +1,1 @@
-# full-stack-example
+# Spring Framework Shopping App with basic Spring Security
